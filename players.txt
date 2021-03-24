@@ -1,16 +1,15 @@
-40	Chris Bassitt	RHP
+40	Christian	Bassitt
 58	Paul Blackburn	RHP
 71	Cole Irvin	LHP
 55	Sean Manaea	LHP
 33	AJ Puk   	LHP
 44	Jesus Luzardo	LHP
 37	Jonah Heim	C
-12	Sean Murphy	C
 26	Matt Chapman	3B
 5	Tony Kemp00	OF
-28	Matt Olson	1B
 18	Chad Pinder	SS
 11	Dustin Fowler	OF
 25	Stephen Piscotty	OF
 20	Mark Canha	OF
 31	Greg Deichmann	OF
+3	Jonny	P
